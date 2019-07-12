@@ -4,7 +4,7 @@
 ![Screenshot_2019-07-12-10-58-37](https://user-images.githubusercontent.com/43134132/61117228-59ca7180-a496-11e9-93b1-1aef303545d8.png)
 
 
-<bold>Swip for delete</bold>
+#for delete
 
 
 ![Screenshot_2019-07-12-10-59-00](https://user-images.githubusercontent.com/43134132/61117350-9bf3b300-a496-11e9-9913-b1a8f2758dd2.png)
